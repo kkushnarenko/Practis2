@@ -1,0 +1,14 @@
+C:\Users\Администратор\source\repos\Учебная практика РКИС\УП 2.1\bin\Debug\net7.0\УП 2.1.exe
+C:\Users\Администратор\source\repos\Учебная практика РКИС\УП 2.1\bin\Debug\net7.0\УП 2.1.deps.json
+C:\Users\Администратор\source\repos\Учебная практика РКИС\УП 2.1\bin\Debug\net7.0\УП 2.1.runtimeconfig.json
+C:\Users\Администратор\source\repos\Учебная практика РКИС\УП 2.1\bin\Debug\net7.0\УП 2.1.dll
+C:\Users\Администратор\source\repos\Учебная практика РКИС\УП 2.1\bin\Debug\net7.0\УП 2.1.pdb
+C:\Users\Администратор\source\repos\Учебная практика РКИС\УП 2.1\obj\Debug\net7.0\УП 2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\source\repos\Учебная практика РКИС\УП 2.1\obj\Debug\net7.0\УП 2.1.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\Учебная практика РКИС\УП 2.1\obj\Debug\net7.0\УП 2.1.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\Учебная практика РКИС\УП 2.1\obj\Debug\net7.0\УП 2.1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Учебная практика РКИС\УП 2.1\obj\Debug\net7.0\УП 2.1.dll
+C:\Users\Администратор\source\repos\Учебная практика РКИС\УП 2.1\obj\Debug\net7.0\refint\УП 2.1.dll
+C:\Users\Администратор\source\repos\Учебная практика РКИС\УП 2.1\obj\Debug\net7.0\УП 2.1.pdb
+C:\Users\Администратор\source\repos\Учебная практика РКИС\УП 2.1\obj\Debug\net7.0\УП 2.1.genruntimeconfig.cache
+C:\Users\Администратор\source\repos\Учебная практика РКИС\УП 2.1\obj\Debug\net7.0\ref\УП 2.1.dll
